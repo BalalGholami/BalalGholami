@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BalalGholami
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software Development - Full Stack with 
 - 💞️ I’m looking to collaborate on this community
+- HTML, CSS, Java Script, SCSS, JQuery, React, Laravel, MySQL
 
 
 <!---
